@@ -1,2 +1,21 @@
-# Railway-Track-Crack-Detection-System
-A railway track crack and obstacle detection system using ESP32-CAM, Arduino Uno, and YOLO-based computer vision. The system performs real-time monitoring, automatically stops the inspection vehicle on fault detection, and displays results on a web dashboard to improve railway safety and reduce manual inspection.
+An automated system to detect cracks and obstacles on railway tracks in real time using computer vision and embedded systems, aimed at improving railway safety and reducing manual inspection.
+
+Key Features
+
+ESP32-CAM based live track monitoring
+
+YOLO-based crack and obstacle detection
+
+Automatic motor stop using Arduino Uno and relay
+
+Live video feed on web dashboard
+
+Technologies Used
+
+ESP32-CAM, Arduino Uno
+
+Python, YOLO
+
+Flask, Firebase
+
+Arduino IDE, VS Code
